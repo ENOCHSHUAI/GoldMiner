@@ -16,7 +16,15 @@ Gold Miner is a Java-based game where players control a claw to collect gold, ro
 
 ## Project Structure
 
-src/ ├── com.sxt/ │ ├── Bg.java // Background rendering │ ├── GameWin.java // Game window and main logic │ ├── Gold.java // Gold item class │ ├── Line.java // Claw line class │ ├── Rock.java // Rock item class │ └── Object.java // Base class for game items imgs/ // Images required for the game
+- `src/`
+  - `com.sxt/`
+    - `Bg.java` - Background rendering
+    - `GameWin.java` - Game window and main logic
+    - `Gold.java` - Gold item class
+    - `Line.java` - Claw line class
+    - `Rock.java` - Rock item class
+    - `Object.java` - Base class for game items
+- `imgs/` - Images required for the game
 
 ## How to Run
 
@@ -43,5 +51,5 @@ src/ ├── com.sxt/ │ ├── Bg.java // Background rendering │ ├─
 - Enhance player interactivity.
 
 ## Developers
-Developer: Enoch Sun
-Email: sunyike88@gmail.com
+   Developer: Enoch Sun
+   Email: sunyike88@gmail.com
